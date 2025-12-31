@@ -21,7 +21,13 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 #define IN4 7  
 #define ENB 6  
 
+// #define Left1 7
+// #define Left2 8
+// #define Left_Speed 6
 
+// #define Right1 3
+// #define Right2 4
+// #define Right_Speed 5
 
 
 
